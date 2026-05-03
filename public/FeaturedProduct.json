@@ -1,0 +1,384 @@
+[
+  {
+    "id": 1,
+    "category": "Desktop",
+    "title": "AMD Ryzen 7 7700 Budget Gaming Desktop PC",
+    "price": 49410,
+    "previous_price": 54900,
+    "regular_price": 56098,
+    "discount": "10%",
+    "save_amount": 5490,
+    "status": "In Stock",
+    "brand": "AMD",
+    "model": "Ryzen 7 7700 Desktop PC",
+    "key_features": [
+      "AMD Ryzen 7 7700 Gaming Processor",
+      "MSI PRO B650M-P DDR5 AMD AM5 mATX Motherboard",
+      "TEAM VULCAN RED 8GB DDR5 6000MHz RAM",
+      "WD SN770 500GB PCIe Gen4 NVMe SSD"
+    ],
+    "image": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/ryzen-pc/ryzen-7-7700/ryzen-7-7700-01-200x200.webp"
+  },
+  {
+    "id": 2,
+    "category": "Desktop",
+    "title": "AMD Ryzen 5 5600G APU Budget Desktop PC",
+    "price": 32500,
+    "previous_price": 37000,
+    "regular_price": 38000,
+    "discount": "12%",
+    "save_amount": 4500,
+    "status": "In Stock",
+    "brand": "AMD",
+    "model": "Ryzen 5 5600G APU PC",
+    "key_features": [
+      "AMD Ryzen 5 5600G with Radeon Graphics",
+      "Gigabyte A520M Motherboard",
+      "8GB DDR4 RAM",
+      "256GB M.2 SSD"
+    ],
+    "image": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/amd-ryzen-5-3400g-processor-desktop-pc-00-500x500.webp"
+  },
+  {
+    "id": 3,
+    "category": "Appliance",
+    "title": "Gree 1.5 Ton Non-Inverter AC",
+    "price": 55500,
+    "previous_price": 67990,
+    "discount": "18%",
+    "save_amount": 12490,
+    "status": "In Stock",
+    "brand": "Gree",
+    "model": "1.5 Ton Standard",
+    "key_features": [
+      "1.5 Ton Cooling Capacity",
+      "Non-Inverter Operation",
+      "Eco Mode",
+      "Remote Control"
+    ],
+    "image": "https://www.startech.com.bd/image/cache/catalog/gadget/daily-lifestyle/smart/sek-s18es/sek-s18es-0001-228x228.webp"
+  },
+  {
+    "id": 4,
+    "category": "Tablet",
+    "title": "Black Shark Pad 6 8GB RAM 256GB 11\" FHD+ Tablet",
+    "price": 25999,
+    "previous_price": 30000,
+    "discount": "13%",
+    "save_amount": 4001,
+    "status": "In Stock",
+    "brand": "Black Shark",
+    "model": "Pad 6",
+    "key_features": [
+      "Snapdragon Processor",
+      "11\" Full HD+ Display",
+      "8GB RAM, 256GB Storage",
+      "Flip Cover Included"
+    ],
+    "image": "https://www.startech.com.bd/image/cache/catalog/tablet/teclast/p30t-10-1-inch/p30t-10-1-inch-01-228x228.webp"
+  },
+  {
+    "id": 5,
+    "category": "Laptop",
+    "title": "HP 15s Ryzen 3 5300U 8GB RAM 512GB SSD Laptop",
+    "price": 52500,
+    "previous_price": 59900,
+    "discount": "13%",
+    "save_amount": 7400,
+    "status": "In Stock",
+    "brand": "HP",
+    "model": "15s-Eq2182AU",
+    "key_features": [
+      "AMD Ryzen 3 5300U Processor",
+      "8GB DDR4 RAM",
+      "512GB NVMe SSD",
+      "15.6\" FHD Display"
+    ],
+    "image": "https://www.startech.com.bd/image/cache/catalog/laptop/smart/flairedge/flairedge-01-228x228.webp"
+  },
+  {
+    "id": 6,
+    "category": "Laptop",
+    "title": "ASUS Vivobook 14 Core i5 12th Gen Laptop",
+    "price": 64900,
+    "previous_price": 71000,
+    "discount": "8%",
+    "save_amount": 6100,
+    "status": "In Stock",
+    "brand": "ASUS",
+    "model": "Vivobook 14 X1402ZA",
+    "key_features": [
+      "Intel Core i5-1235U",
+      "8GB RAM, 512GB SSD",
+      "14\" FHD Display",
+      "Windows 11 Home"
+    ],
+    "image": "https://www.startech.com.bd/image/cache/catalog/laptop/chuwi/gemibook-plus/gemibook-plus-01-500x500.webp"
+  },
+  {
+    "id": 7,
+    "category": "Monitor",
+    "title": "Samsung 24-Inch Full HD LED Monitor",
+    "price": 17500,
+    "previous_price": 20000,
+    "discount": "12%",
+    "save_amount": 2500,
+    "status": "In Stock",
+    "brand": "Samsung",
+    "model": "LS24R350",
+    "key_features": [
+      "24-inch IPS Panel",
+      "75Hz Refresh Rate",
+      "AMD FreeSync Support",
+      "HDMI & VGA Ports"
+    ],
+    "image": "https://www.startech.com.bd/image/cache/catalog/monitor/aoc/agon-pro-ag276fk/agon-pro-ag276fk-01-200x200.webp"
+  },
+  {
+    "id": 8,
+    "category": "Monitor",
+    "title": "LG UltraGear 27\" QHD 144Hz Gaming Monitor",
+    "price": 35500,
+    "previous_price": 42000,
+    "discount": "15%",
+    "save_amount": 6500,
+    "status": "In Stock",
+    "brand": "LG",
+    "model": "27GN800-B",
+    "key_features": [
+      "27-inch QHD IPS Panel",
+      "144Hz Refresh Rate",
+      "1ms Response Time",
+      "NVIDIA G-Sync Compatible"
+    ],
+    "image": "https://www.ryans.com/storage/products/small/acer-k202qbi-195-inch-hd-display-hdmi-vga-11716467768.webp"
+  },
+  {
+    "id": 9,
+    "category": "Peripheral",
+    "title": "Logitech MX Master 3S Wireless Mouse",
+    "price": 10400,
+    "previous_price": 12000,
+    "discount": "13%",
+    "save_amount": 1600,
+    "status": "In Stock",
+    "brand": "Logitech",
+    "model": "MX Master 3S",
+    "key_features": [
+      "Silent Clicks",
+      "4000 DPI Sensor",
+      "USB-C Fast Charging",
+      "Bluetooth + USB Receiver"
+    ],
+    "image": "https://www.startech.com.bd/image/cache/catalog/drones/dji/mini-4k-fly-more-combo/mini-4k-fly-more-combo-01-200x200.webp"
+  },
+  {
+    "id": 10,
+    "category": "Peripheral",
+    "title": "Redragon K552 Mechanical Gaming Keyboard",
+    "price": 2999,
+    "previous_price": 3500,
+    "discount": "14%",
+    "save_amount": 501,
+    "status": "In Stock",
+    "brand": "Redragon",
+    "model": "K552 Kumara",
+    "key_features": [
+      "Compact TKL Layout",
+      "Mechanical Switches (Blue)",
+      "RGB Lighting",
+      "Detachable USB Cable"
+    ],
+    "image": "https://www.startech.com.bd/image/cache/catalog/earbuds/xiaomi/black-shark-lucifer-t7/black-shark-lucifer-t7-01-200x200.jpg"
+  },
+  {
+    "id": 11,
+    "category": "Smartphone",
+    "title": "Samsung Galaxy A34 5G 8GB/128GB Smartphone",
+    "price": 48999,
+    "previous_price": 54999,
+    "discount": "11%",
+    "save_amount": 6000,
+    "status": "In Stock",
+    "brand": "Samsung",
+    "model": "Galaxy A34 5G",
+    "key_features": [
+      "6.6\" AMOLED 120Hz",
+      "Dimensity 1080 SoC",
+      "8GB RAM, 128GB Storage",
+      "5000mAh Battery"
+    ],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYbkhJZH53DvGGqNAybxy_zM6KLqfs2oEHtM5KdsWpFK6fGtHo1NYC49uRzPo90Q_NidE&usqp=CAU"
+  },
+  {
+    "id": 12,
+    "category": "Smartphone",
+    "title": "Xiaomi Redmi Note 13 Pro 5G 8/256GB",
+    "price": 37999,
+    "previous_price": 41999,
+    "discount": "10%",
+    "save_amount": 4000,
+    "status": "In Stock",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 13 Pro 5G",
+    "key_features": [
+      "Snapdragon 7s Gen 2",
+      "120Hz AMOLED Display",
+      "67W Fast Charging",
+      "5000mAh Battery"
+    ],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7MitJUtK4kfDyt3XUdji7Y2sh2y-HOIfPn8kU2WbCRjXbLdlmxofHyyALUwfbRR8x4Wk&usqp=CAU"
+  },
+  {
+    "id": 13,
+    "category": "Camera",
+    "title": "Canon EOS 200D II DSLR Camera (18-55mm)",
+    "price": 62500,
+    "previous_price": 69990,
+    "discount": "11%",
+    "save_amount": 7490,
+    "status": "In Stock",
+    "brand": "Canon",
+    "model": "EOS 200D II",
+    "key_features": [
+      "24.1MP APS-C Sensor",
+      "Dual Pixel Autofocus",
+      "4K Video Recording",
+      "WiFi & Bluetooth"
+    ],
+    "image": "https://www.startech.com.bd/image/cache/catalog/digital-camera/sony/alpha-a6400/alpha-a6400-1-200x200.jpg"
+  },
+  {
+    "id": 14,
+    "category": "Camera",
+    "title": "Sony Alpha ZV-E10 Mirrorless Camera (Body Only)",
+    "price": 68000,
+    "previous_price": 74900,
+    "discount": "9%",
+    "save_amount": 6900,
+    "status": "In Stock",
+    "brand": "Sony",
+    "model": "ZV-E10",
+    "key_features": [
+      "24.2MP APS-C Sensor",
+      "4K Video with Real-Time Eye AF",
+      "Flip Screen for Vlogging",
+      "USB-C Streaming"
+    ],
+    "image": "https://www.ryans.com/storage/products/small/ezviz-eb3-2k-28mm-30mp-standalone-smart-11742029148.webp"
+  },
+  {
+    "id": 15,
+    "category": "Appliance",
+    "title": "Midea 1 Ton Inverter Split AC",
+    "price": 43500,
+    "previous_price": 48900,
+    "discount": "11%",
+    "save_amount": 5400,
+    "status": "In Stock",
+    "brand": "Midea",
+    "model": "MS12FT",
+    "key_features": [
+      "1 Ton Cooling Capacity",
+      "Energy Efficient Inverter",
+      "Turbo Cooling",
+      "Sleep Mode"
+    ],
+    "image": "https://www.ryans.com/storage/products/small/epson-ecotank-l3250-a4-wi-fi-multifunction-11727079829.webp"
+  },
+  {
+    "id": 16,
+    "category": "Tablet",
+    "title": "Samsung Galaxy Tab A8 4/64GB WiFi",
+    "price": 21499,
+    "previous_price": 23999,
+    "discount": "10%",
+    "save_amount": 2500,
+    "status": "In Stock",
+    "brand": "Samsung",
+    "model": "Tab A8",
+    "key_features": [
+      "10.5\" WUXGA Display",
+      "Unisoc T618 Processor",
+      "Dolby Atmos Speakers",
+      "Kids Mode"
+    ],
+    "image": "https://www.ryans.com/storage/products/small/amazon-fire-hd-10-13th-gen-octa-core-3gb-ram-11710071005.webp"
+  },
+  {
+    "id": 17,
+    "category": "Desktop",
+    "title": "Intel Core i3 12100 Budget Desktop PC",
+    "price": 36990,
+    "previous_price": 42000,
+    "discount": "12%",
+    "save_amount": 5010,
+    "status": "In Stock",
+    "brand": "Intel",
+    "model": "Core i3 12100 Build",
+    "key_features": [
+      "Intel Core i3 12100",
+      "H610 Motherboard",
+      "8GB RAM",
+      "256GB SSD"
+    ],
+    "image": "https://www.ryans.com/storage/products/small/acer-veriton-s2690g-12th-gen-intel-core-i5-12400-11721123239.webp"
+  },
+  {
+    "id": 18,
+    "category": "Peripheral",
+    "title": "Fantech HG22 Fusion Gaming Headset",
+    "price": 2990,
+    "previous_price": 3490,
+    "discount": "14%",
+    "save_amount": 500,
+    "status": "In Stock",
+    "brand": "Fantech",
+    "model": "HG22 Fusion",
+    "key_features": [
+      "Virtual 7.1 Surround Sound",
+      "Detachable Mic",
+      "RGB Lighting",
+      "USB Connector"
+    ],
+    "image": "https://www.ryans.com/storage/products/small/revenger-base-dynamic-mini-5-mid-tower-white-11709815154.webp"
+  },
+  {
+    "id": 19,
+    "category": "Appliance",
+    "title": "Walton 215L Frost Refrigerator",
+    "price": 31500,
+    "previous_price": 34990,
+    "discount": "10%",
+    "save_amount": 3490,
+    "status": "In Stock",
+    "brand": "Walton",
+    "model": "WFC-3D8-GDEH-DD",
+    "key_features": [
+      "215 Liters Capacity",
+      "Direct Cool",
+      "Nano Technology",
+      "10-Year Compressor Warranty"
+    ],
+    "image": "https://www.ryans.com/storage/products/small/ugreen-lp862-45376-magnetic-desktop-phone-stand-11736236189.webp"
+  },
+  {
+    "id": 20,
+    "category": "Camera",
+    "title": "GoPro HERO11 Black Action Camera",
+    "price": 47500,
+    "previous_price": 52900,
+    "discount": "10%",
+    "save_amount": 5400,
+    "status": "In Stock",
+    "brand": "GoPro",
+    "model": "HERO11 Black",
+    "key_features": [
+      "5.3K60 Video",
+      "27MP Photos",
+      "HyperSmooth 5.0",
+      "Waterproof up to 33ft"
+    ],
+    "image": "https://www.startech.com.bd/image/cache/catalog/camera/action-camera/sjcam/sj4000-dual-screen/sj4000-dual-screen-01-228x228.webp"
+  }
+]

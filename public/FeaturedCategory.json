@@ -1,0 +1,18 @@
+[
+  { "name": "Drone", "icon": "https://cdn-icons-png.flaticon.com/512/974/974510.png","path":"/gadget" },
+  { "name": "Gimbal", "icon": "https://static.thenounproject.com/png/4223505-200.png", "path":"/camera"  },
+  { "name": "Charger Fan", "icon": "https://static.vecteezy.com/system/resources/previews/000/356/722/non_2x/charging-fan-vector-icon.jpg", "path":"/accessories"  },
+  { "name": "Weight Scale", "icon": "https://cdn-icons-png.flaticon.com/512/6824/6824573.png" ,"path":"/accessories"  },
+  { "name": "TV", "icon": "https://cdn-icons-png.flaticon.com/512/2502/2502208.png" },
+  { "name": "Mobile Phone", "icon": "https://cdn-icons-png.flaticon.com/512/0/191.png" },
+  { "name": "Mobile Accessories", "icon": "https://cdn.vectorstock.com/i/1000v/44/89/mobile-phone-accessories-icon-set-vector-1834489.jpg" },
+  { "name": "Portable SSD", "icon": "https://static.vecteezy.com/system/resources/thumbnails/030/724/643/small/external-ssd-drive-line-icon-vector.jpg" },
+  { "name": "Portable WiFi Camera", "icon": "https://cdn-icons-png.flaticon.com/512/4485/4485782.png" },
+  { "name": "Trimmer", "icon": "https://cdn-icons-png.flaticon.com/512/3461/3461786.png" },
+  { "name": "Smart Watch", "icon": "https://static.vecteezy.com/system/resources/thumbnails/007/081/002/small/phone-device-smart-app-business-watch-brand-cellphone-telephone-free-vector.jpg" },
+  { "name": "Camera", "icon": "https://static.thenounproject.com/png/207966-200.png" },
+  { "name": "Earphone", "icon": "https://cdn-icons-png.flaticon.com/512/394/394238.png" },
+  { "name": "Earbuds", "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK3QzLgS7KX4viCmjTv8tY3z1Vw-CvdaeEFcE6ZeQL9bFi0TXRD5OAWaLCbpS0Gx3fqNA&usqp=CAU" },
+  { "name": "Bluetooth Speakers", "icon": "https://t3.ftcdn.net/jpg/11/29/07/40/360_F_1129074035_nlRplUU2QCk6y4oVNuMQQmpEqLBOZvsm.jpg" },
+  { "name": "Gaming Console", "icon": "https://cdn-icons-png.flaticon.com/512/3197/3197658.png" }
+]
