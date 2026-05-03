@@ -12,6 +12,11 @@ Check out the live version of the project here:
 [Live site](https://oryon-gadgets.firebaseapp.com/)
 ---
 
+## User access
+
+  meghla@gmail.com
+  @meghlab6#
+
 ## Admin access
 
   admin36@gmail.com
