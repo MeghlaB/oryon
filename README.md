@@ -14,8 +14,8 @@ Check out the live version of the project here:
 
 ## User access
 
-  meghla@gmail.com
-  @meghlab6#
+meghlabiswas@gmail.com
+ @Meghlab6
 
 ## Admin access
 
